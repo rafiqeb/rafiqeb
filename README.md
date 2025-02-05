@@ -81,12 +81,65 @@ Medical Camp Management System is a comprehensive solution designed to streamlin
 - Firebase  
 - MongoDB
 
+### 🔥 Features  
+✅ Register and manage medical camps  
+✅ Volunteer and patient management  
+✅ Real-time data updates  
+✅ Secure authentication with Firebase
+
+### 📦 Dependencies  
+- `react-router-dom`  
+- `firebase`  
+- `express`  
+- `mongoose`
+
+### 🛠️ Installation  
+1. Clone the repo  
+   git clone
+   - https://github.com/rafiqeb/my-12th-assignment-client
+
+  ### Install dependencies
+- npm install
+
+### Run the project
+- npm run dev
+
 ## A Game Review Application 🎟️  
 
 A Game Review Application is a platform designed for gamers to share, explore, and read reviews about video games.  
 
 ## 🚀 Live Link 
 🔗 [Click here to visit](https://my-10th-assignment-2ced6.web.app/) 
+
+### 🛠️ Technologies Used  
+- React.js  
+- Tailwind CSS  
+- Firebase  
+- MongoDB
+
+### 🔥 Features  
+✅ Post and read game reviews  
+✅ Like and comment on reviews  
+✅ Search and filter by game category  
+✅ User authentication with Firebase 
+
+### 📦 Dependencies  
+- `react-router-dom`  
+- `firebase`  
+- `express`  
+- `mongoose`
+
+### 🛠️ Installation  
+1. Clone the repo  
+   git clone
+   - https://github.com/rafiqeb/my-10th-assignment-client
+
+### Install dependencies
+- npm install
+
+### Run the project
+- npm run dev
+
 
 
 ## Volunteer management project 🎟️  
@@ -96,13 +149,10 @@ The primary goal of a volunteer management project is to streamline and enhance 
 ## 🚀 Live Link 
 🔗 [Click here to visit](https://my-11th-assignment-c2db4.web.app/) 
 
-
 ### 🔥 Features  
-✅ Register and manage medical camps  
-✅ Volunteer and patient management  
-✅ Post and read game reviews  
-✅ Like and comment on reviews
-✅ Volunteer registration and tracking 
+✅ Volunteer registration and tracking  
+✅ Event management  
+✅ Real-time updates and notifications
 
 ### 📦 Dependencies  
 - `react-router-dom`  
@@ -114,11 +164,9 @@ The primary goal of a volunteer management project is to streamline and enhance 
 1. Clone the repo  
    git clone
    - https://github.com/rafiqeb/my-11th-assignment-client
-   - https://github.com/rafiqeb/my-12th-assignment-client
-   - https://github.com/rafiqeb/my-10th-assignment-client
 
 ### Install dependencies
 - npm install
 
-### Install dependencies
+### Run the project
 - npm run dev
