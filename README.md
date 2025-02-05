@@ -95,3 +95,30 @@ The primary goal of a volunteer management project is to streamline and enhance 
 
 ## 🚀 Live Link 
 🔗 [Click here to visit](https://my-11th-assignment-c2db4.web.app/) 
+
+
+### 🔥 Features  
+✅ Register and manage medical camps  
+✅ Volunteer and patient management  
+✅ Post and read game reviews  
+✅ Like and comment on reviews
+✅ Volunteer registration and tracking 
+
+### 📦 Dependencies  
+- `react-router-dom`  
+- `firebase`  
+- `express`  
+- `mongoose`
+
+### 🛠️ Installation  
+1. Clone the repo  
+   git clone
+   - https://github.com/rafiqeb/my-11th-assignment-client
+   - https://github.com/rafiqeb/my-12th-assignment-client
+   - https://github.com/rafiqeb/my-10th-assignment-client
+
+### Install dependencies
+- npm install
+
+### Install dependencies
+- npm run dev
