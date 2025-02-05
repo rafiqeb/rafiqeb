@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Md Rafiqul Islam</h2>
+<h2 align="center">Hi 👋! My name is Md Rafiqul Islam</h2>
 
 ###
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<h4 align="center">Here are some ideas to get you started:</h4>
+
+###
+
+<p align="center">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...</p>
 
 ###
 
@@ -53,8 +53,17 @@ Here are some ideas to get you started:
 
 ###
 
+<h3 align="center">About Me</h3>
+
+###
+
+<p align="center">Hi there! I’m Md Rafiqul Islam a passionate Web Developer with experience in building modern, scalable, and user-friendly web applications. I specialize in:<br>React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase.<br>I love solving problems through code and constantly learning new technologies.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafiqeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
