@@ -1,26 +1,34 @@
 <div align="center">
-  <img height="320" src="https://i.ibb.co.com/TMJYQj9P/Add-a-heading.png"  />
+  <img height="320" src="https://i.ibb.co.com/8DhJQMJh/RAFIQUL-ISLAM.png"  />
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Md Rafiqul Islam</h2>
+<h2 align="center">Hi 👋! My name is Md Rafiqul Islam. I am Frontend Developer.</h2>
 
 ###
 
-<h4 align="center">Here are some ideas to get you started:</h4>
+<h3 align="center">About Me</h3>
 
 ###
 
-<p align="center">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...</p>
+<p align="left">Hi there! I’m Md Rafiqul Islam a passionate Web Developer with experience in building modern, scalable, and user-friendly web applications. I specialize in:<br>React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase.<br>I love solving problems through code and constantly learning new technologies.</p>
 
 ###
 
-<h3 align="center">Tecnology</h3>
+<h3 align="center">Current Activities</h3>
 
 ###
 
-<div align="center">
+<p align="left">-🔭 I am currently learning NEXT>Js<br>-🌱 I am currently working SEO<br>-👯 Api routes<br>-🤔 I improved my performance</p>
+
+###
+
+<h3 align="center">Technology</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -44,20 +52,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
-
-###
-
-<h3 align="center">About Me</h3>
-
-###
-
-<p align="center">Hi there! I’m Md Rafiqul Islam a passionate Web Developer with experience in building modern, scalable, and user-friendly web applications. I specialize in:<br>React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase.<br>I love solving problems through code and constantly learning new technologies.</p>
 
 ###
 
