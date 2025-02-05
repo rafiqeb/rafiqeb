@@ -68,7 +68,7 @@
 
 ###
 
-## Medical camp management project 🎟️  
+# Medical camp management project 🎟️  
 
 Medical Camp Management System is a comprehensive solution designed to streamline the planning, organization, and execution of medical camps.  
 
@@ -104,7 +104,7 @@ Medical Camp Management System is a comprehensive solution designed to streamlin
 ### Run the project
 - npm run dev
 
-## A Game Review Application 🎟️  
+# A Game Review Application 🎟️  
 
 A Game Review Application is a platform designed for gamers to share, explore, and read reviews about video games.  
 
@@ -142,7 +142,7 @@ A Game Review Application is a platform designed for gamers to share, explore, a
 
 
 
-## Volunteer management project 🎟️  
+# Volunteer management project 🎟️  
 
 The primary goal of a volunteer management project is to streamline and enhance the process of recruiting, coordinating, and managing volunteers. 
 
