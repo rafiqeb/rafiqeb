@@ -67,3 +67,16 @@
 </div>
 
 ###
+
+# Medical camp management project 🎟️  
+
+Medical Camp Management System is a comprehensive solution designed to streamline the planning, organization, and execution of medical camps.  
+
+## 🚀 Live Link 
+🔗 [Click here to visit](https://my-12th-assignment.web.app/)  
+
+## 🛠️ Technologies Used  
+- React.js  
+- Tailwind CSS  
+- Firebase  
+- MongoDB 
